@@ -35,10 +35,10 @@ export const ArrayMethods = () => {
       <h1>Array Methods Example</h1>
 
       <h2>Original Numbers : </h2>
-      <p>
-        {`numbers : `}
+      <h3>
+        {`Numbers : `}
         {numbers.join(", ")}
-      </p>
+      </h3>
 
       <div className="array-methods-overall-box">
         <div className="array-methods-box">
